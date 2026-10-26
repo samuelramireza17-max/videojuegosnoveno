@@ -1,0 +1,100 @@
+.titulo
+{
+  color: #500DB8;
+  background-color: #121111;
+  text-align: center;
+  border-radius: 15px;
+}
+.imagen
+{
+ height: 300px;
+  width: 650px;
+}
+.imagen2
+{
+  height: 300px;
+  width: 650px;
+}
+.imagen3
+{
+  height: 575px;
+  width: 650px;
+}
+.queson
+{
+color:#0BF507;
+  background-color: #121111;
+  border-radius: 10px;
+}
+.caracteristicas
+{
+  color:#07A6F5;
+  background-color: #121111;
+  border-radius: 14px;
+}
+.tipos
+{
+  color:#F50707;
+  background-color: #121111;
+  border-radius: 14px;
+   text-align: center;
+}
+.links
+{
+    color:#F5E107;
+  background-color: #121111;
+  border-radius: 14px;
+   text-align: center;
+}
+.tipo1
+{
+  color: #500DB8;
+}
+.tipo2
+{
+  color: #F50707;
+}
+.tipo3
+{
+  color:#F5E107;
+}
+.tipo4
+{
+  color:#07A6F5;
+}
+.tipo5
+{
+  color:#0BF507;
+}
+.texto {
+  color: #FFFFFF;
+}
+body {
+  background-color: black;
+}
+.titulo:hover{
+  color: #1B1985;
+  background-color: #000000;
+  text-align: center;
+  border-radius: 15px;
+}
+.queson:hover{
+  color: #167D0F;
+  background-color: #000000;
+  border-radius: 10px;
+}
+.caracteristicas:hover{
+  color: #247D85;
+  background-color: #000000;
+  border-radius: 10px;
+}
+.tipos:hover{
+  color: #991A1A;
+  background-color: #000000;
+  border-radius: 10px;
+}
+.links:hover{
+  color: #A89C1E;
+  background-color: #000000;
+  border-radius: 10px;
+}
